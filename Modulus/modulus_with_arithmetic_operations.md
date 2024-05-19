@@ -41,7 +41,7 @@ To divide \( a \) by \( b \) under modulo \( m \), you need to multiply \( a \) 
 \[ (a / b) \% m = (a \cdot b^{-1}) \% m \]
 
 Finding the modular inverse is not always feasible, making direct division under modulus complicated and often impractical.
-
+ 
 ## Conclusion
 While the modulus operation can be seamlessly integrated with addition, subtraction, and multiplication due to the closure properties of these operations within modular arithmetic, division requires a modular inverse and is not inherently supported. This limitation arises from the fundamental differences in how division operates compared to the other arithmetic operations.
 
