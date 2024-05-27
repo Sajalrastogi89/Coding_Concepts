@@ -25,4 +25,4 @@ int dividend = -10;
 int divisor = 3;
 
 // Calculate remainder with negative dividend
-int remainder = (dividend % divisor + divisor) % divisor;
+int remainder = (dividend % divisor + divisor) % divisor; 
