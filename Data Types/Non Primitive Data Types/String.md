@@ -38,5 +38,5 @@ boolean isEqual = str1.equals(str2);
 // Search
 int index = message.indexOf("World");
 
-// Formatting
+// Formatting of String
 String formattedString = String.format("Hello, %s!", "World");
